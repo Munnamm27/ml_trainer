@@ -1,0 +1,20 @@
+Preprocessing:
+    --Sugesstions
+    - Encoding
+    - Null Value Handling
+    - Normalization
+    - Splitting
+
+
+Training
+    -- type
+    -- Linear
+    -- KNN
+    -- Naive Bayes
+    -- SVM
+    -- Random Forest
+    -- XgBoost
+    -- LightGBM
+
+Result Comparison
+    -
